@@ -1,0 +1,8 @@
+{
+    "name": "authconfig-service",
+    "version": "1.0.386",
+    "private": false,
+    "environment": "production",
+    "build_id": 921,
+    "allow_public_access": true
+}
